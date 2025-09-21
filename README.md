@@ -9,7 +9,9 @@ It contains all the codes, notebooks, and practice exercises I create while lear
 - `numpy/` → Practice notebooks for NumPy
 - `pandas/` → Exercises and projects using Pandas
 - `matplotlib/` → Data visualization practice
-- `dsa/` → Data Structures & Algorithms in Python
+- `flask/` → projects using flask
+- `streamlit/` → projects using streamlit
+- `tkinter/` → projects using tkinter
 - `projects/` → Mini projects and experiments
 
 ---
