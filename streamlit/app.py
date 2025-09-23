@@ -18,7 +18,7 @@ elif option == "Startup":
   st.title('Startup Analysis')
 
 else :
-  st.sidebar.selectbox('Select Startup', sorted(df['Investorsxe2x80x99 Name'].unique().tolist()))
+  st.sidebar.selectbox('Select investor', sorted(df['Investorsxe2x80x99 Name'].unique().tolist()))
   btn2 = st.sidebar.button('Find investor Details')
   st.title('Investor Analysis')
 
