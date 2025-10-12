@@ -9,7 +9,6 @@ It contains all the codes, notebooks, and practice exercises I create while lear
 - `numpy/` → Practice notebooks for NumPy
 - `pandas/` → Exercises and projects using Pandas
 - `matplotlib/` → Data visualization practice
-- `matplotlib/` → Data visualization practice
 - `plotly/` → Data visualization practice
 - `seaborn/` → Data visualization practice
 - `flask/` → projects using flask
@@ -31,6 +30,8 @@ It contains all the codes, notebooks, and practice exercises I create while lear
 - **NumPy**
 - **Pandas**
 - **Matplotlib**
+- **Seaborn**
+- **plotly**
 - **Jupyter Notebook**
 
 ---
