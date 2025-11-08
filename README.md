@@ -21,7 +21,7 @@ It contains all the codes, notebooks, and practice exercises I create while lear
 ## 🚀 Purpose
 - Track my **progress** as I learn Data Science
 - Build a collection of **hands-on practice codes**
-- Strengthen my foundation in **Python, NumPy, Pandas, Matplotlib**, and beyond
+- Strengthen my foundation in **Python, NumPy, Pandas, Matplotlib, seaborn**, and beyond
 
 ---
 
